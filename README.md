@@ -4,6 +4,7 @@ The C Sharp Grade Book Application is a designed to allow instructors to create 
 
 ## Accepted Commands
 
+
 ### Commands when no gradebooks are open
 - "Create `Name of Gradebook` `Is this Gradebook Weighted (true/false)`" : Creates a new gradebook with the provided name
 - "Help" : gives you a list of all valid commands within the given context
